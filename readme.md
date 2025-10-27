@@ -4,12 +4,12 @@
 
 <div align="center" style="margin: 10px 0px">
 
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img float="left" alt="Explore Things" src="./Assets/ExploreThings.gif" width="3840px" height="2160px" /></a>
+ <!-- <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
+    <img float="left" alt="Explore Things" src="./Assets/ExploreThings.gif" width="3840px" height="2160px" /></a> -->
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Mohamed Elbaz
+<h1 align="center">Hi, I'm Mohamed Elbaz
 </h1>
 
 
@@ -27,7 +27,7 @@
     <summary><b>My Github Public Stats:</b></summary>
 <a href="https://github-readme-stats.vercel.app/api?username=bazokhan&layout=compact&theme=github_dark&show_icons=true&count_private=true" target="_blank" rel="noopener noreferrer"><img float="left" src="https://github-readme-stats.vercel.app/api?username=bazokhan&layout=compact&theme=github_dark&show_icons=true&count_private=true" alt="bazokhan gitHub stats" /></a><a href="https://github-readme-streak-stats.herokuapp.com/?user=bazokhan&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=DD6346&dates=63AEDD&fire=DD9C4B" target="_blank" rel="noopener noreferrer"><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bazokhan&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=DD6346&dates=63AEDD&fire=DD9C4B" alt="bazokhan streak stats" /></a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bazokhan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8" target="_blank" rel="noopener noreferrer"><img float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazokhan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8" alt="bazokhan gitHub top languages" /></a><a href="https://github-profile-trophy.vercel.app/?username=bazokhan&theme=onedark" target="_blank" rel="noopener noreferrer"><img float="left" src="https://github-profile-trophy.vercel.app/?username=bazokhan&theme=onedark" alt="bazokhan  gitHub stat trophies" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bazokhan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8" target="_blank" rel="noopener noreferrer"><img float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazokhan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8" alt="bazokhan gitHub top languages" /></a><a href="https://github-profile-trophy.vercel.app/?username=bazokhan&theme=onedark" target="_blank" rel="noopener noreferrer"></a>
 
 </details>
 
@@ -37,4 +37,5 @@
 <!--  GitHub metrics to be added if needed
  [![GitHub metrics](https://metrics.lecoq.io/viniciusflores?template=terminal&followup=1&isocalendar=1)](https://github.com/lowlighter/metrics)
 -->
+
 
